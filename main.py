@@ -1,5 +1,5 @@
 def main():
-    print(str(2502))
+    print(str(chr(2502)))
     pass
 
 if __name__ == "__main__":
