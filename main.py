@@ -1,5 +1,5 @@
 def move_up(t):
-    print(f"""\033[{t}A""")
+    print(f"""\033[2A""")
 def main():
     print("yaay1")
     move_up(2)
